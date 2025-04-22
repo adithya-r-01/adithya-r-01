@@ -2,8 +2,10 @@
 <img alt="Waving Hand" src="https://www.svgrepo.com/show/402888/waving-hand.svg" style="width:100px"><br><code>Hello!</code>
 </h1>
 
-
 > My name is Adithya (`a`-`dith`-`ee`-`yah`) and I am currently an __SRE__ at 🐸 `JFrog` - I like analytical writing, cooking, sports, and beyond ... learn more below!
+
+> [!NOTE]
+> Wanna skip all the fluff? Jump straight to my [LinkedIn](https://www.linkedin.com/in/adithya-ramanujam/)
 
 __Skills & Competencies__: 
 
@@ -14,9 +16,8 @@ __Skills & Competencies__:
 
 __My Journey__:
 
-<img align="left" width="60" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Georgia_Tech_Yellow_Jackets_logo.svg/500px-Georgia_Tech_Yellow_Jackets_logo.svg.png?20180422004702">
 <details>
-  <summary><b>Georgia Tech</b></summary>
+  <summary><b>🐝 Georgia Tech</b></summary>
   <br/>
   <ul>
     <li>Bachelors' in Computer Science</li>
@@ -25,11 +26,8 @@ __My Journey__:
   </ul>
 </details>
 
----
-
-<img align="left" width="50" height="50" src="https://images.icon-icons.com/2699/PNG/512/lexisnexis_logo_icon_169270.png">
 <details>
-  <summary> <b>LexisNexis</b></summary>
+  <summary> <b>🔴 LexisNexis</b></summary>
   <br/>
   <ul>
     <li>Site Reliability Engineer</li>
@@ -38,54 +36,30 @@ __My Journey__:
   </ul>
 </details>
 
----
+<details>
+  <summary> <b>🟧  UIUC</b></summary>
+  <br/>
+  <ul>
+    <li>Masters' in Computer Science</li>
+    <li><code>2024</code>–<code>2025</code></li>
+    <li><b>Focus:</b> ML & Systems Design</li>
+  </ul>
+</details>
 
+<details>
+  <summary> <b>🐸  JFrog</b></summary>
+  <br/>
+  <ul>
+    <li>Site Reliability Engineer</li>
+    <li><code>2024</code>–<code>XXXX</code></li>
+    <li><b>Competencies:</b> Kubernetes & SaaS Management</li>
+  </ul>
+</details> 
 
-<table>
-  <tr>
-    <td>
-      <details>
-        <summary><b>🐝  Georgia Tech</b></summary>
-        <br/>
-        <ul>
-          <li>Bachelors' in Computer Science</li>
-          <li><code>2018</code>–<code>2022</code></li>
-          <li><b>Focus:</b> AI & HCI</li>
-        </ul>
-      </details>
-    </td>
-    <td>
-      <details>
-        <summary> <b>🔴  LexisNexis</b></summary>
-        <br/>
-        <ul>
-          <li>Site Reliability Engineer</li>
-          <li><code>2022</code>–<code>2023</code></li>
-          <li><b>Competencies:</b> Cloud Infrastructure</li>
-        </ul>
-      </details>
-    </td>
-    <td>
-      <details>
-        <summary> <b>🟧  UIUC</b></summary>
-        <br/>
-        <ul>
-          <li>Masters' in Computer Science</li>
-          <li><code>2024</code>–<code>2025</code></li>
-          <li><b>Focus:</b> ML & Systems Design</li>
-        </ul>
-      </details>
-    </td>
-    <td>
-      <details>
-        <summary> <b>🐸  JFrog</b></summary>
-        <br/>
-        <ul>
-          <li>Site Reliability Engineer</li>
-          <li><code>2024</code>–<code>XXXX</code></li>
-          <li><b>Competencies:</b> Kubernetes & SaaS Management</li>
-        </ul>
-      </details>      
-    </td>
-  </tr>
-</table>
+__Repositories:__
+
+I try to keep __all__ public repositories ready and easily consumable - visit [here](https://github.com/adithya-r-01?tab=repositories) to learn more!
+
+__Writings:__
+
+Unlike my repositories, I _don't_ keep my writings as tidy as I should ... but try and pan for gold [here](https://adithyaswritings.super.site/)
